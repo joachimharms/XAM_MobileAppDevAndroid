@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POIApp_C04_ListView", "POIApp_C04_ListView\POIApp_C04_ListView.csproj", "{31F49BE8-6EF2-4383-8B10-4433B7A7341E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31F49BE8-6EF2-4383-8B10-4433B7A7341E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F49BE8-6EF2-4383-8B10-4433B7A7341E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F49BE8-6EF2-4383-8B10-4433B7A7341E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{31F49BE8-6EF2-4383-8B10-4433B7A7341E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F49BE8-6EF2-4383-8B10-4433B7A7341E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31F49BE8-6EF2-4383-8B10-4433B7A7341E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FB54DC2-767D-4649-B314-81C2EE3EE9C8}
+	EndGlobalSection
+EndGlobal
