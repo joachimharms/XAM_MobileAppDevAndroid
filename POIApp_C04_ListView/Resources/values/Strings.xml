@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">POIApp_C04_ListView</string>
+  <string name="hint_poi_name">POI Name</string>
+  <string name="hint_address">City, State, Postal Code</string>
+  <string name="hint_distance">204 miles</string>
 </resources>

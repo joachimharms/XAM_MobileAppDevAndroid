@@ -41,11 +41,48 @@ namespace POIApp_C04_ListView
 			}
 		}
 		
+		public partial class Id
+		{
+			
+			// aapt resource value: 0x7f040002
+			public const int image_poi = 2130968578;
+			
+			// aapt resource value: 0x7f040003
+			public const int linearLayout1 = 2130968579;
+			
+			// aapt resource value: 0x7f040000
+			public const int list_poi = 2130968576;
+			
+			// aapt resource value: 0x7f040001
+			public const int progress_list_poi = 2130968577;
+			
+			// aapt resource value: 0x7f040005
+			public const int text_address = 2130968581;
+			
+			// aapt resource value: 0x7f040006
+			public const int text_distance = 2130968582;
+			
+			// aapt resource value: 0x7f040004
+			public const int text_name = 2130968580;
+			
+			static Id()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Id()
+			{
+			}
+		}
+		
 		public partial class Layout
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int Main = 2130837504;
+			public const int POIList = 2130837504;
+			
+			// aapt resource value: 0x7f020001
+			public const int POIListItem = 2130837505;
 			
 			static Layout()
 			{
@@ -62,6 +99,15 @@ namespace POIApp_C04_ListView
 			
 			// aapt resource value: 0x7f030000
 			public const int app_name = 2130903040;
+			
+			// aapt resource value: 0x7f030002
+			public const int hint_address = 2130903042;
+			
+			// aapt resource value: 0x7f030003
+			public const int hint_distance = 2130903043;
+			
+			// aapt resource value: 0x7f030001
+			public const int hint_poi_name = 2130903041;
 			
 			static String()
 			{
